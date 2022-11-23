@@ -1,1 +1,1 @@
-# cdn
+Static hosting of content
